@@ -21,7 +21,7 @@ def get_user(id):
 
 users = [user for id in user_ids if (user := get_user(id)) is not None]
 
-openai.api_key = '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'
+openai.api_key = 'CHAVE DE ATIVAÇÃO'
 
 def generate_ai_news(user):
 
