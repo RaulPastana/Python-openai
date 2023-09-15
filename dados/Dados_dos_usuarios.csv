@@ -1,0 +1,57 @@
+UserID
+{
+  "id": 2506,
+  "name": "Lucas Pix da Silva",
+  "account": {
+    "id": 2636,
+    "number": "6540-2",
+    "agency": "0002",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 2425,
+    "number": "xxxx xxxx xxxx xxxx 3333",
+    "limit": 1000
+  },
+  "features": [],
+  "news": []
+}
+
+{
+  "id": 2507,
+  "name": "Godofredo Henrique",
+  "account": {
+    "id": 2637,
+    "number": "6550-2",
+    "agency": "0002",
+    "balance": 0,
+    "limit": 750
+  },
+  "card": {
+    "id": 2426,
+    "number": "xxxx xxxx xxxx xxxx 4444",
+    "limit": 2000
+  },
+  "features": [],
+  "news": []
+}
+
+{
+  "id": 2508,
+  "name": "Pedro Marte Nectuno",
+  "account": {
+    "id": 2638,
+    "number": "6560-2",
+    "agency": "0002",
+    "balance": 0,
+    "limit": 1500
+  },
+  "card": {
+    "id": 2427,
+    "number": "xxxx xxxx xxxx xxxx 7777",
+    "limit": 8000
+  },
+  "features": [],
+  "news": []
+}
